@@ -243,10 +243,6 @@ The system includes robust error handling:
 4. Test with a small dataset
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - Built on top of the [Giskard](https://github.com/Giskard-AI/giskard) library
